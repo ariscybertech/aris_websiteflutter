@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:websiteflutter/components/default_button.dart';
-import 'package:websiteflutter/components/section_title.dart';
-import 'package:websiteflutter/constants.dart';
+import 'package:websiteflutter/aris/components/default_button.dart';
+import 'package:websiteflutter/aris/components/section_title.dart';
+import 'package:websiteflutter/aris/constants.dart';
 
 import 'components/socal_card.dart';
 

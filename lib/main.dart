@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:websiteflutter/constants.dart';
-import 'package:websiteflutter/home_screen.dart';
+import 'package:websiteflutter/aris/constants.dart';
+import 'package:websiteflutter/aris/home_screen.dart';
 
 void main() {
   runApp(MyApp());

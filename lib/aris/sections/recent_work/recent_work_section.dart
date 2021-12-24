@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:websiteflutter/components/hireme_card.dart';
-import 'package:websiteflutter/components/section_title.dart';
-import 'package:websiteflutter/constants.dart';
-import 'package:websiteflutter/models/RecentWork.dart';
+import 'package:websiteflutter/aris/components/hireme_card.dart';
+import 'package:websiteflutter/aris/components/section_title.dart';
+import 'package:websiteflutter/aris/constants.dart';
+import 'package:websiteflutter/aris/models/RecentWork.dart';
 
 import 'components/recent_work_card.dart';
 

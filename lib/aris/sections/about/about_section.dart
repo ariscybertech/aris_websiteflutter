@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:websiteflutter/components/default_button.dart';
-import 'package:websiteflutter/components/my_outline_button.dart';
-import 'package:websiteflutter/constants.dart';
+import 'package:websiteflutter/aris/components/default_button.dart';
+import 'package:websiteflutter/aris/components/my_outline_button.dart';
+import 'package:websiteflutter/aris/constants.dart';
 
 import 'components/about_section_text.dart';
 import 'components/about_text_with_sign.dart';

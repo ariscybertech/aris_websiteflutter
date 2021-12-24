@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:websiteflutter/constants.dart';
-import 'package:websiteflutter/sections/about/about_section.dart';
-import 'package:websiteflutter/sections/contact/contact_section.dart';
-import 'package:websiteflutter/sections/feedback/feedback_section.dart';
-import 'package:websiteflutter/sections/recent_work/recent_work_section.dart';
-import 'package:websiteflutter/sections/service/service_section.dart';
-import 'package:websiteflutter/sections/topSection/top_section.dart';
+import 'package:websiteflutter/aris/constants.dart';
+import 'package:websiteflutter/aris/sections/about/about_section.dart';
+import 'package:websiteflutter/aris/sections/contact/contact_section.dart';
+import 'package:websiteflutter/aris/sections/feedback/feedback_section.dart';
+import 'package:websiteflutter/aris/sections/recent_work/recent_work_section.dart';
+import 'package:websiteflutter/aris/sections/service/service_section.dart';
+import 'package:websiteflutter/aris/sections/topSection/top_section.dart';
 
 class HomeScreen extends StatelessWidget {
   @override

@@ -1,7 +1,7 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:websiteflutter/constants.dart';
+import 'package:websiteflutter/aris/constants.dart';
 
 import 'components/logo_blur_box.dart';
 import 'components/menu.dart';

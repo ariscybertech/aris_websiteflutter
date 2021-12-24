@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:websiteflutter/models/Service.dart';
+import 'package:websiteflutter/aris/models/Service.dart';
 
 import '../../../constants.dart';
 
